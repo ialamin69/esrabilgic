@@ -1,4 +1,4 @@
-⚠️Site Name: Esra Bilgic Portfolio
+📌Name: Esra Bilgic Portfolio
 
 🔗Site Link: https://ialamin69.github.io/esrabilgic
 
